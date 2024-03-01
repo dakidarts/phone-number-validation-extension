@@ -22,6 +22,7 @@ Watch the extension in action on [Youtube](https://www.youtube.com/watch?v=zaeaW
 
 ## Installation 🛠️
 
+- Mozilla Firefox: [Go to Firefox!](https://addons.mozilla.org/en-US/firefox/addon/validate-phone-number/)
 - Awaiting approvals ⏳
 
 ## Usage 📝

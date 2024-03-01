@@ -2,7 +2,7 @@
 
 ![Phone Number Validation](assets/cover.jpg)
 
-[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://www.youtube.com/embed/zaeaWCM75bA?si=xTpqcgNCqtYtUWHO)
+[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://www.youtube.com/watch?v=zaeaWCM75bA)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/dakidarts/phone-number-validation-extension)
 [![API Repo](https://img.shields.io/badge/API-Repo-green)](https://github.com/dakidarts/checky-verify-phone-number-api)
 [![Website](https://img.shields.io/badge/Website-dakidarts.com-yellow)](https://dakidarts.com)

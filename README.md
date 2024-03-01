@@ -18,7 +18,7 @@ Validate phone numbers effortlessly with our Phone Number Validation browser ext
 
 ## Demo 🎥
 
-Watch the extension in action on [YouTube](https://www.youtube.com/embed/zaeaWCM75bA?si=xTpqcgNCqtYtUWHO).
+Watch the extension in action on [Youtube](https://www.youtube.com/watch?v=zaeaWCM75bA).
 
 ## Installation 🛠️
 

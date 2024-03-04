@@ -1,6 +1,6 @@
 # Phone Number Validation 📱
 
-![Phone Number Validation](assets/cover.jpg)
+![Phone Number Validation](assets/update-cover.png)
 
 [![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://www.youtube.com/watch?v=zaeaWCM75bA)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/dakidarts/phone-number-validation-extension)
@@ -15,6 +15,19 @@ Validate phone numbers effortlessly with our Phone Number Validation browser ext
 - **Carrier Information**: Discover the carrier associated with the phone number.
 - **Location Details**: Get insights into the location of the phone number.
 - **Phone Type Identification**: Identify whether the phone number is a landline or mobile.
+
+---
+
+### 🌟 What's New
+- Added support for Day and Night modes to enhance user experience.
+- Improved accuracy by including city location information for validated phone numbers.
+- Minor bug fixes for improved stability.
+
+### 🎨 How to Use Day and Night Modes
+- Click the toggle button in the extension popup to switch between Day 🌞 and Night 🌙 modes.
+- Your preference will be saved, ensuring a consistent experience across sessions.
+
+---
 
 ## Demo 🎥
 

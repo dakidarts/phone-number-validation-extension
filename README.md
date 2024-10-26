@@ -50,7 +50,7 @@ We welcome contributions! If you have ideas for new features, bug fixes, or impr
 
 ## Discover the API! 🌐
 
-Enhance your projects with our robust Phone Number Verification API. Explore various endpoints and functionalities to elevate your applications. [Check it out here](https://github.com/dakidarts/checky-verify-phone-number-api).
+Enhance your projects with our robust Phone Number Verification API. Explore various endpoints and functionalities to elevate your applications. [Check it out here](https://rapidapi.com/kidddevs/api/checky-verify-phone-number/).
 
 ## License 📜
 
